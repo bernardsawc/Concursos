@@ -2,6 +2,9 @@
 https://bernardsawc.github.io/Concursos/
 
 Repositório para acompanhar a nomeação/posição em concursos
+
+# MPETO - 2024 - Técnico de Informática - 6º Posição
+https://cdn.cebraspe.org.br/concursos/MP_TO_24_SERVIDOR/arquivos/ED_6_MP_TO_2023_SERVIDOR_RES_FINAL_OBJ_PROV_DISC_CONV_IS.PDF
 # TST - 2024 - Técnico de TI - 33º Posição
 https://www.in.gov.br/web/dou/-/edital-n-4-tst-de-16-de-fevereiro-de-2024-543408545
 # UFT - 2023 - Analista de TI - 4ª Posição
