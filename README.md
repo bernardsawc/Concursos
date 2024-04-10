@@ -25,7 +25,8 @@ https://www.in.gov.br/web/dou/-/edital-n-16-de-7-de-agosto-de-2023-502106682
 https://conhecimento.fgv.br/sites/default/files/concursos/bo-3183-suplementar.pdf
 # PGESC - 2022 - Técnico em Informática - 39º Posição
 https://d676e6gwpn3ec.cloudfront.net/concursos/1128/73_424977.pdf
-# IFTO - 2015
+# IFTO - 2015 - 6º Posição
+https://portal.ifto.edu.br/ifto/reitoria/diretoria-sistemica/dgp/concursos/nomeacoes/2015/tecnico-administrativo/classificacao-geral-tae-2015.xlsx/view
 # CRMTO - 2015 - Técnico de TI - 7º Posição
 https://www2.quadrix.org.br/resources/1/concursos/2015/CRMTO/CRMTO_resultado_DEFINITIVO_230.pdf
 # CRFTO - 2015
