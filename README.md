@@ -3,6 +3,8 @@ https://bernardsawc.github.io/Concursos/
 
 Repositório para acompanhar a nomeação/posição em concursos
 
+# ALETO - 2024 - Analista Legislativo - Desenvolvimento de Sistemas - 2º Posição
+https://conhecimento.fgv.br/sites/default/files/concursos/724_aleto-edital-01-resultado-preliminar-prova-objetiva-2024-05-17.pdf
 # MPETO - 2024 - Técnico de Informática - 6º Posição
 https://cdn.cebraspe.org.br/concursos/MP_TO_24_SERVIDOR/arquivos/ED_6_MP_TO_2023_SERVIDOR_RES_FINAL_OBJ_PROV_DISC_CONV_IS.PDF
 # TST - 2024 - Técnico de TI - 33º Posição
