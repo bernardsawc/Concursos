@@ -2,7 +2,10 @@
 https://bernardsawc.github.io/Concursos/
 
 Repositório para acompanhar a nomeação/posição em concursos
-
+# TRF1 - 2025 - ANALISTA JUDICIÁRIO - ÁREA APOIO ESPECIALIZADO - TECNOLOGIA DA INFORMAÇÃO  - São Luis / MA - 10 º Posição
+https://conhecimento.fgv.br/concursos/trf1servidor24
+# TRF1 - 2025 -TÉCNICO JUDICIÁRIO - ÁREA APOIO ESPECIALIZADO - SUPORTE TÉCNICO - São Luis / MA - 3 º Posição
+https://conhecimento.fgv.br/concursos/trf1servidor24
 # ALETO - 2024 - Analista Legislativo - Desenvolvimento de Sistemas - 2º Posição
 https://conhecimento.fgv.br/sites/default/files/concursos/724_aleto-edital-01-resultado-preliminar-prova-objetiva-2024-05-17.pdf
 # MPETO - 2024 - Técnico Ministerial Especializado - Tecnologia da Informação - 6º Posição
