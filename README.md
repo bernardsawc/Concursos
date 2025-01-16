@@ -4,7 +4,7 @@ https://bernardsawc.github.io/Concursos/
 Repositório para acompanhar a nomeação/posição em concursos
 # CPNUJE - 2025 - ANALISTA JUDICIÁRIO – ÁREA: APOIO ESPECIALIZADO – ESPECIALIDADE: TECNOLOGIA DA INFORMAÇÃO - TRE PE - 82 º Posição
 https://www.cebraspe.org.br/concursos/CPNUJE_24
-# CPNUJE - 2025 - TÉCNICO JUDICIÁRIO – ÁREA: APOIO ESPECIALIZADO – ESPECIALIDADE: PROGRAMAÇÃO DE SISTEMAS - TREPE - 30 º Posição
+# CPNUJE - 2025 - TÉCNICO JUDICIÁRIO – ÁREA: APOIO ESPECIALIZADO – ESPECIALIDADE: PROGRAMAÇÃO DE SISTEMAS - TRE PE - 30 º Posição
 https://www.cebraspe.org.br/concursos/CPNUJE_24
 # TRF1 - 2025 - ANALISTA JUDICIÁRIO - ÁREA APOIO ESPECIALIZADO - TECNOLOGIA DA INFORMAÇÃO  - São Luis / MA - 10 º Posição
 https://conhecimento.fgv.br/concursos/trf1servidor24
