@@ -7,13 +7,13 @@ https://www.cebraspe.org.br/concursos/CPNUJE_24
 # CPNUJE - 2025 - TÉCNICO JUDICIÁRIO – ÁREA: APOIO ESPECIALIZADO – ESPECIALIDADE: PROGRAMAÇÃO DE SISTEMAS - TRE PE - 30 º Posição
 https://www.cebraspe.org.br/concursos/CPNUJE_24
 # TRF1 - 2025 - ANALISTA JUDICIÁRIO - ÁREA APOIO ESPECIALIZADO - TECNOLOGIA DA INFORMAÇÃO  - São Luis / MA - 10 º Posição
-https://conhecimento.fgv.br/concursos/trf1servidor24
-https://www.in.gov.br/web/dou/-/edital-de-homologacao-611592476
+https://conhecimento.fgv.br/concursos/trf1servidor24 <br>
+https://www.in.gov.br/web/dou/-/edital-de-homologacao-611592476 <br>
 # TRF1 - 2025 -TÉCNICO JUDICIÁRIO - ÁREA APOIO ESPECIALIZADO - SUPORTE TÉCNICO - São Luis / MA - 3 º Posição
-https://conhecimento.fgv.br/concursos/trf1servidor24
-https://www.in.gov.br/web/dou/-/edital-de-homologacao-611592476
+https://conhecimento.fgv.br/concursos/trf1servidor24 <br>
+https://www.in.gov.br/web/dou/-/edital-de-homologacao-611592476 <br>
 # ALETO - 2024 - Analista Legislativo - Desenvolvimento de Sistemas - 2º Posição
-https://conhecimento.fgv.br/sites/default/files/concursos/724-aleto-resultado-final-de-aprovados-2024-12-23.pdf
+https://conhecimento.fgv.br/sites/default/files/concursos/724-aleto-resultado-final-de-aprovados-2024-12-23.pdf <br>
 https://al.to.leg.br/arquivo/73183
 # MPETO - 2024 - Técnico Ministerial Especializado - Tecnologia da Informação - 6º Posição
 https://cdn.cebraspe.org.br/concursos/MP_TO_24_SERVIDOR/arquivos/ED_6_MP_TO_2023_SERVIDOR_RES_FINAL_OBJ_PROV_DISC_CONV_IS.PDF
