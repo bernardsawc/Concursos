@@ -28,8 +28,10 @@ https://portal.trt12.jus.br/sites/default/files/2024-02/edital_11_de_resultado_d
 https://www.in.gov.br/web/dou/-/edital-n-12-de-6-de-fevereiro-de-2024-542001784 <br>
 https://portal.trt12.jus.br/sites/default/files/2024-02/edital_11_de_resultado_definitivo_das_provas_e_convocacao_para_comissao_heteroidentificacao_trt12123%20%281%29.pdf
 # TRT18 (GO) - 2023 - Analista Judiciário - Apoio Especializado em Tecnologia da Informação - 45ª Posição
+https://sistemas3.trt18.jus.br/trtconcursos/page/painelConcurso?id=1
 https://www.in.gov.br/web/dou/-/edital-n-16-de-7-de-agosto-de-2023-502106682
 # TRT18 (GO) - 2023 - Técnico Judiciário - Apoio Especializado em Tecnologia da Informação - 17ª Posição
+https://sistemas3.trt18.jus.br/trtconcursos/page/painelConcurso?id=1
 https://www.in.gov.br/web/dou/-/edital-n-16-de-7-de-agosto-de-2023-502106682
 # TJRN - 2023 - Analista Judiciário - Análise de Sistemas - 28 Posição - Nomeado - Empossado
 [https://conhecimento.fgv.br/concursos/tjrn2023](https://conhecimento.fgv.br/concursos/tjrn2023/02)
